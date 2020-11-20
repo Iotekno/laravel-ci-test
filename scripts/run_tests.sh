@@ -1,0 +1,1 @@
+echo "successfully tested application"
